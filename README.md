@@ -2,7 +2,7 @@
 
   <img src="https://github.com/eupedromiguel/eupedromiguel/blob/main/CAPA%20GIT%20HUB.png" alt="Banner" width="100%" />
 
-  <h1>Pedro Miguel</h1>
+  <hr/>
   Desenvolvedor Full-Stack focado em produtos web modernos.
   <br/>
   <p>
@@ -42,7 +42,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>artistFy</h3>
-      <p>Pesquisa de artistas no Spotify, visualização de faixas e álbuns, geração de relatórios e exportação de dados, utilizando dados públicos da Spotify Web API.</p>
+      <p>Pesquisa de artistas, faixas e álbuns no Spotify. Geração de relatórios e exportação de dados, utilizando a Spotify Web API.</p>
       <p>
         <a href="https://github.com/eupedromiguel" target="_blank">Repositório</a>
         ·
