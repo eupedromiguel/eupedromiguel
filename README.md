@@ -3,7 +3,7 @@
   <img src="https://github.com/eupedromiguel/eupedromiguel/blob/main/CAPA%20GIT%20HUB.png" alt="Banner" width="100%" />
 
   <hr/>
-  Desenvolvedor Full-Stack focado em produtos web modernos.
+  <h3>Desenvolvedor Full-Stack focado em produtos web modernos.</h3>
   <br/>
   <p>
 
@@ -25,9 +25,9 @@
       <img alt="Acessar" src="https://img.shields.io/badge/Acessar%20Portf%C3%B3lio-000000?style=for-the-badge" />
     </a>
   </p>
-
-<h2>Projetos em destaque</h2>
-
+<hr/>
+<h3>Projetos em destaque</h3>
+  
 <table>
 
   <tr>
@@ -52,7 +52,7 @@
   </tr>
 </table>
 
-<h2>Tecnologias</h2>
+<h3>Tecnologias</h3>
 
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5" />
@@ -71,7 +71,8 @@
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel" />
 </p>
 
-<h2>Contato</h2>
+<hr/>
+<h3>Contato</h3>
 
 <p>
   Quer falar comigo?
