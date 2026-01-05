@@ -7,11 +7,15 @@
   <br/>
   <p>
 
-    Concluindo técnico em Analise e desenvolvimento de sistemas, com base técnica construída a partir de projetos práticos e estudo contínuo. Trago experiência prévia em produção musical, onde desenvolvi forte atenção a detalhes, organização de projetos complexos e responsabilidade técnica - habilidades que hoje aplico diretamente no desenvolvimento de software.
+    Concluindo técnico em Analise e desenvolvimento de sistemas, com base técnica construída a partir de projetos práticos e estudo contínuo. 
+    Trago experiência prévia em produção musical, onde desenvolvi forte atenção a detalhes, organização de projetos complexos e responsabilidade técnica - habilidades que hoje aplico diretamente no desenvolvimento de software.
     
-    Atualmente finalizando o curso técnico em Análise e Desenvolvimento de Sistemas e desenvolvendo meu primeiro projeto web full stack: um sistema de agendamento médico com autenticação via Firebase, automação de e-mails e gestão de consultas. Tenho foco em código limpo, arquitetura organizada, segurança e manutenibilidade.
-
-    Costumo trabalhar sempre apoiado em documentação oficial, boas práticas e preocupação com escalabilidade, buscando transformar requisitos reais em soluções técnicas estáveis e bem estruturadas.
+    Atualmente finalizando o curso técnico em Análise e Desenvolvimento de Sistemas e desenvolvendo meu primeiro projeto web full stack
+    - Um sistema de agendamento médico com autenticação via Firebase, automação de e-mails e gestão de consultas. 
+    
+    Tenho foco em código limpo, arquitetura organizada, segurança e manutenibilidade.
+    Costumo trabalhar sempre apoiado em documentação oficial, boas práticas e preocupação com escalabilidade. 
+    Busco transformar requisitos reais em soluções técnicas estáveis e bem estruturadas.
     Busco oportunidades para contribuir com projetos reais, evoluir tecnicamente e aprofundar minha atuação como desenvolvedor.
 
   </p>
