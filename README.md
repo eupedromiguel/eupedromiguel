@@ -42,9 +42,9 @@
     </td>
     <td width="50%" valign="top">
       <h3>artistFy</h3>
-      <p>Pesquisa de artistas, faixas e álbuns no Spotify. Geração de relatórios e exportação de dados, utilizando a Spotify Web API.</p>
+      <p>Pesquisar dados de artistas, faixas e álbuns no Spotify. Geração de relatórios e exportação de dados, utilizando a Spotify Web API.</p>
       <p>
-        <a href="https://github.com/eupedromiguel" target="_blank">Repositório</a>
+        <a href="https://github.com/eupedromiguel/artistfy-app" target="_blank">Repositório</a>
         ·
         <a href="https://artistfy.vercel.app/" target="_blank">Link</a>
       </p>
