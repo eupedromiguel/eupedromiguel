@@ -78,6 +78,8 @@
   Quer falar comigo?
   <br />
   <strong>Email:</strong> <a href="mailto:pedromiguelataides@gmail.com">pedromiguelataides@gmail.com</a>
+  
+  <strong>WhatsApp:</strong> +55 (11) 93029-3249
 </p>
 </div>
 
