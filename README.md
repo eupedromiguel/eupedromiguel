@@ -21,7 +21,7 @@
   </p>
 
   <p>
-    <a href="https://pedromiguel.pages.dev/" target="_blank">
+    <a href="https://pedromiguel.vercel.app/" target="_blank">
       <img alt="Acessar" src="https://img.shields.io/badge/Acessar%20Portf%C3%B3lio-000000?style=for-the-badge" />
     </a>
   </p>
